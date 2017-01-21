@@ -22,6 +22,9 @@ Decoded password is:
 ## Algorithm credits
 Cisco decrypt code is available here https://www.unix-ag.uni-kl.de/~massar/soft/cisco-decrypt.c
 
+# How to configure a VPN on MAC OSX
+- [Connecting to a Cisco IPSec VPN on Mac OSX with a PCF File](http://brandonclapp.com/connecting-to-a-cisco-ipsec-vpn-on-mac-osx-with-a-pcf-file/) (external link)
+
 ## Contributing
 Your contributions (issues and pull request) are very appreciated!
 
